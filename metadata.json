@@ -1,0 +1,6 @@
+{
+  "name": "Neon Rhythm Snake",
+  "description": "An immersive dark neon snake game with a built-in AI-generated music player and rhythm-based visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
